@@ -269,7 +269,7 @@ html {
     align-items: center;
     margin: 20%;
 flex-direction:colum;
-    font-size: 15px;
+
     color:white;
 
     border-radius: 20px 12px 0;
@@ -278,3 +278,18 @@ flex-direction:colum;
     mask-image: linear-gradient(to top, transparent, black);
 
 }
+
+
+
+.disclaimer{
+    margin-top:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+text-align: center;
+    font-size: 20px;
+
+    
+}
+
+
